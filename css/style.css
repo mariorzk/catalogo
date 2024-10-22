@@ -2,13 +2,17 @@ body {
     min-width: 372px;
 }
 .roxo {
-    background-color: #a98dff
+    background-color: #a98dff !important;
+    border-color: #a98dff !important;
 }
 
 .verde{
-    background-color: #aceacf;
+    background-color: #aceacf !important;
+    border-color: #aceacf !important;
+    
 }
 
 .rosa{
-    background-color: #e466d5;
+    background-color: #e466d5 !important;
+    border-color: #e466d5 !important;
 }
