@@ -1,6 +1,9 @@
 body {
     min-width: 372px;
+    background-image: url('/img/misc/bg-body.jpg');
+    background-repeat: repeat;
 }
+
 .roxo {
     background-color: #a98dff !important;
     border-color: #a98dff !important;
