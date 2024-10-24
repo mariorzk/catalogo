@@ -8,6 +8,9 @@ body {
     background-color: #a98dff !important;
     border-color: #a98dff !important;
 }
+.texto-roxo {
+    color: #a98dff
+}
 
 .verde{
     background-color: #aceacf !important;
@@ -22,8 +25,15 @@ body {
 
 p.truncate-3l {
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+
+.fonte-p{
+    font-size: 14px;
+}
+.fonte-pp{
+    font-size: 12px;
 }
